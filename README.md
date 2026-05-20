@@ -1,7 +1,7 @@
 <div align="center">
 
-## Hey, I'm Himani
-**AI/ML Engineer • Full-Stack Developer**
+## Himani Musku
+**AI/ML • Full-Stack**
 
 </div>
 
@@ -18,7 +18,7 @@
 
 ### Web & App Development
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,nextjs,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,nextjs,tailwind" />
 </p>
 
 ### AI / ML Frameworks & Tools
