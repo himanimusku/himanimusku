@@ -1,13 +1,12 @@
-## Hey, I'm Himani
-
 <div align="center">
 
+## Hey, I'm Himani
 **AI/ML Engineer • Full-Stack Developer**
 
 </div>
 
 - CS Student at Carnegie Mellon University
-- Conducted machine learning research at MIT Lincoln Laboratory, University of Chicago, and Northwestern University across applications ranging from disease diagnosis to human-robot interaction
+- Conducted machine learning research at MIT Lincoln Laboratory, University of Chicago, and Northwestern University for different applications, ranging from disease diagnosis to human-robot interaction
 - First author & presenter at the IEEE High Performance Extreme Computing Conference (HPEC), the largest computing conference in New England
 
 ---
@@ -27,20 +26,19 @@
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv" />
 </p>
 
-- TensorFlow
-- PyTorch
-- Keras
-- Scikit-learn
-- XGBoost
-- Hugging Face Transformers
-- Pandas
-- NumPy
-- OpenCV
-- LangChain
+<p align="left">
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge&logo=xgboost&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFCC4D?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge" />
+</p>
 
 ### Cloud & DevOps
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,git,github,linux" />
 </p>
 
 <!--
